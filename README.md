@@ -5,11 +5,11 @@ Requirements:
 
 shall
  - store the filament in an dry enviroment
- - enable the printing with the stored filament
+ - enable printing with the stored filament
  - show the current humidity
 
  should:
   - dry the filament with a corresponding device
 
  may:
-  - retract or provide filament during an filament chenging process
+  - retract or provide filament during an filament change process
