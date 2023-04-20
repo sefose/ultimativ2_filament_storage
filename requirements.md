@@ -10,4 +10,4 @@
   - dry the filament with a corresponding device
 
  ### may:
-  - retract or provide filament during an filament chenging process
+  - retract or provide filament during an filament changing process
